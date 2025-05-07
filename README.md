@@ -1,3 +1,3 @@
 # Gpu-net
 # My Project
-Day 8: Started learning GitHub!
+Day 1: Started learning GitHub!
